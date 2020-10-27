@@ -1,5 +1,5 @@
 {
   "constraints": {
-    "node": "<15"
+    "node": "< 15.0.0"
   }
 }
