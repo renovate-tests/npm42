@@ -1,5 +1,7 @@
 {
-  "constraints": {
-    "node": "< 15.0.0"
+  "force": {
+    "constraints": {
+      "node": "< 15.0.0"
+    }
   }
 }
