@@ -3,5 +3,6 @@
     "constraints": {
       "node": "< 15.0.0"
     }
-  }
+  },
+  "prBodyTemplate": "{{{header}}}{{{table}}}{{{notes}}}{{{changelogs}}}{{{configDescription}}}{{{controls}}}{{{footer}}}"
 }
