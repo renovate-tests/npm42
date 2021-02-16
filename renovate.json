@@ -1,3 +1,4 @@
 {
-  "additionalBranchPrefix": "{{platform}}-"
+  "additionalBranchPrefix": "{{platform}}-",
+  "separateMultipleMajor": true
 }
