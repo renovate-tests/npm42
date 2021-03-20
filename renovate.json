@@ -1,4 +1,5 @@
 {
   "additionalBranchPrefix": "{{platform}}-",
-  "separateMultipleMajor": true
+  "separateMultipleMajor": true,
+  "yarnrc": "# abc123"
 }
