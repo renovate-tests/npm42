@@ -1,5 +1,5 @@
 {
   "additionalBranchPrefix": "{{platform}}-",
   "separateMultipleMajor": true,
-  "yarnrc": "# abc123"
+  "automerge": true
 }
