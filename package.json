@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "3.0.0"
+  },
+  "engines": {
+    "npm": ">7.0.0"
+  }
+}
