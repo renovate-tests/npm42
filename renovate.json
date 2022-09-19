@@ -1,4 +1,5 @@
 {
+  "extends": ["config:base"],
   "additionalBranchPrefix": "{{platform}}-",
   "separateMultipleMajor": true,
   "automerge": true
