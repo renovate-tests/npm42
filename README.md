@@ -1,4 +1,3 @@
 # npm42
 
-abc
-def
+6
